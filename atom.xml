@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WolfGrandM.github.io</id>
     <title>WolfGrandM</title>
-    <updated>2021-03-28T15:43:36.801Z</updated>
+    <updated>2021-03-28T15:49:33.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://WolfGrandM.github.io"/>
     <link rel="self" href="https://WolfGrandM.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://WolfGrandM.github.io/images/avatar.png</logo>
     <icon>https://WolfGrandM.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, WolfGrandM</rights>
+    <entry>
+        <title type="html"><![CDATA[又有劲写博客了]]></title>
+        <id>https://WolfGrandM.github.io/post/you-you-jing-xie-bo-ke-liao/</id>
+        <link href="https://WolfGrandM.github.io/post/you-you-jing-xie-bo-ke-liao/">
+        </link>
+        <updated>2021-03-28T15:45:44.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>    终于能有一个客户端让我免去繁琐的提交\保存\展示等命令,让我能以最直观的交互界面完成这一切...挺好,建站将近半年,删了建,建了删,,终于有劲来写点东西了</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://WolfGrandM.github.io/post/hello-gridea/</id>
